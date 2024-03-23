@@ -1,1 +1,1 @@
-# Customer-Churn-Dataset
+This project focuses on analyzing customer churn, a critical metric for businesses, using Python. The dataset includes various customer attributes such as usage patterns, demographics, and service-related information. Through this project, we aim to identify key factors contributing to customer churn and build predictive models to help businesses reduce churn rates and improve customer retention strategies.
